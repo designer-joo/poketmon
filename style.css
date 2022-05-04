@@ -1,0 +1,55 @@
+
+
+
+
+body{min-width: 300px; font-size: 14px; cursor: default;}
+
+.poketmon-globalnav{text-align: center; }
+
+.logo img{width: 20em; margin: 5rem auto;}
+.logo-font{text-align: center; font-family: 'Black Han Sans', sans-serif; font-size: 20px;} 
+
+.search-section{text-align: center}
+
+#book-contents{width: 100%; max-width: 1000px;  margin: 0 auto;}
+#poketmon-board{text-align: center; justify-content: center; margin-top: 2rem;}
+
+#search-input{text-align: center;}
+#search-input::placeholder{text-align: center;}
+
+.item-box{  min-width: 333px;
+    margin: 20px; padding:10px;  border-radius: 10px;  }
+
+
+#change-text-button{ background-color:  white; border: 0; border-radius: 5px; padding: 5px 10px; margin-top: 20px; cursor: pointer;}  
+.item-box span{display: block; margin: 10px;}
+.poke-name {font-size: 20px ;  text-transform: uppercase; font-weight: 600;}
+
+
+
+.display{display: none; }
+
+
+
+#basic-img:hover .front{display: none;}
+#basic-img:hover .back{display: unset;}
+.back:hover .front{display: unset;}
+
+
+#shiny-img:hover .front{display: none; }
+#shiny-img:hover .back{display: unset;}
+
+
+.front{display: unset; }
+.back{display: none;}
+
+
+
+
+.poketmon-img img {width :10rem; }
+.type-button{ min-width: 50px; margin:0 auto; padding: 5px 10px 10px; border-radius: 10px;  color: white;}
+
+
+#nopoket{ text-align: center; background-color: rgb(247, 181, 181); border: 1px solid salmon; border-radius:5px; margin: 20px;
+    padding: 10px;
+    border-radius: 10px; font-weight:600; color:crimson;}
