@@ -290,7 +290,7 @@ function backGroundColor(poketmonInfo){
      } else {
       
       card[i].style.display = "none"
-      nopoket.style.display = "block"
+      
      
 
       

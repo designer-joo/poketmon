@@ -53,3 +53,6 @@ body{min-width: 300px; font-size: 14px; cursor: default;}
 #nopoket{ text-align: center; background-color: rgb(247, 181, 181); border: 1px solid salmon; border-radius:5px; margin: 20px;
     padding: 10px;
     border-radius: 10px; font-weight:600; color:crimson;}
+
+
+#next{display: block;  text-align: center;  background-color: #fff;  width: 333px;  margin: 20px auto;  padding: 5px;  border-radius: 5px;  border: 1px solid gray; }
